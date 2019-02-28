@@ -1,0 +1,8 @@
+2019-02-28 12:51:44 INFO     V_merged Start
+2019-02-28 12:51:47 INFO     V_merged Complete
+2019-02-28 12:51:47 INFO     Process_All Start
+2019-02-28 12:51:47 INFO     Loading Matrix
+2019-02-28 12:51:47 INFO     Loaded Matrix [dim=750]
+2019-02-28 12:51:47 INFO     Computing Sequence
+2019-02-28 12:51:47 INFO     Best Sequence has length: 749
+2019-02-28 12:51:47 INFO     Achieve Interest: 1976
